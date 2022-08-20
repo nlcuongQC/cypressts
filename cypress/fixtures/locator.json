@@ -1,0 +1,8 @@
+{
+    "homepage": {
+        "searchTxtBx": "[name=\"q\"]"
+    },
+    "resultPage": {
+        "firstResultTitle": "a h3"
+    }
+}
